@@ -1,0 +1,14 @@
+{
+  "rezero_respawn_sound": {
+    "sounds": [
+      "alaya_core:rezero_respawn_sound"
+    ],
+    "subtitle": "subtitles.alaya_core.respawn"
+  },
+  "level_up": {
+    "sounds": [
+      "alaya_core:rezero_whoaaa"
+    ],
+    "subtitle": "subtitles.alaya_core.level_up"
+  }
+}

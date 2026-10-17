@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.github.thejrossdev.alaya_core.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "alaya_core.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+	  "client.minecraft.ItemStackTooltipMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}
